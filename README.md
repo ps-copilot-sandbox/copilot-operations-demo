@@ -30,6 +30,7 @@ For effective interaction with Copilot, it's essential to keep in mind that **Co
 We provide you with several **Code Tour** exercises, to practice Copilot interactions.
 
 > **Note:** This is an IDE based demo, we recommend to run this via [GitHub Codespaces](https://github.com/features/codespaces). We provide a Devcontainer configuration that provides all the required IDE components (VS Code).
+> If you do not have [GitHub Codespaces](https://github.com/features/codespaces), just clone this Repo and use a local *devcontainer* in you VS-Code IDE.
 
 ---
 
