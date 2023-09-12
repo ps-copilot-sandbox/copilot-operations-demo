@@ -53,7 +53,7 @@
     {
       "file": "src/components/GitHubHeader.js",
       "title": "Fix using Copilot",
-      "description": "## Use Copilot to suggest some fixes\n\n### 2. Highlight the code block that reports an error and click on the light bulb\n\n### 3. Select `Fix using Copilot`\n\n#### 3.1 If Copilot does not produce satisfying results, try using [Copilot Chat](command:workbench.panel.chatSidebar.copilot) (`Control` + `Command` + `I`)\n\n- Type\" `/fix`\n[Copilot Chat](command:workbench.panel.chatSidebar.copilot) (`Control` + `Command` + `I`)\n\n### 4. Save the File !",
+      "description": "## Use Copilot to suggest some fixes\n\n### 2. Highlight the code block that reports an error and click on the light bulb\n\n### 3. Select `Fix using Copilot`\n\n#### 3.1 If Copilot does not produce satisfying results, try using [Copilot Chat](command:workbench.panel.chatSidebar.copilot) (`Control` + `Command` + `I`)\n\n- Type `/fix`\n[Copilot Chat](command:workbench.panel.chatSidebar.copilot) (`Control` + `Command` + `I`)\n\n### 4. Save the File !",
       "selection": {
         "start": {
           "line": 24,
