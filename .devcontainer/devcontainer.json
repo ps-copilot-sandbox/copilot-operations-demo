@@ -8,10 +8,10 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "github.copilot",
-        "vsls-contrib.codetour",
+        "GitHub.copilot",
         "GitHub.copilot-chat",
         "GitHub.copilot-labs",
+        "vsls-contrib.codetour",
         "Phu1237.vs-browser"
       ]
     }
