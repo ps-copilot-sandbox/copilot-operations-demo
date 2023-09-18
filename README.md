@@ -1,30 +1,33 @@
 ![Static Badge](https://img.shields.io/badge/NodeJS-v19.7.0-blue) ![Static Badge](https://img.shields.io/badge/npm-v9.5.0-yellow)
 
-
 <img width="256px" src="docs/images/copilot-flavors.png">
 
 # Copilot Operations Demo
-A demo to operate GitHub Copilot in **Visual Studio Code**
 
-We use a React Calculator App to Demonstrate Copilot & Copilot Chat features
+A demonstration for utilizing GitHub Copilot within Visual Studio Code. This demo serves as a ***'train the trainer'*** guide, highlighting essential features of the Copilot extension for the benefit of class attendees.
+We employ the [CodeTour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) extension to guide you through an example of a React Calculator App. 
 
 ## Prerequisites
 
 ### An IDE based demo 
+
 We recommend to run this via [GitHub Codespaces](https://github.com/features/codespaces). We provide a [Devcontainer](https://code.visualstudio.com/docs/devcontainers/containers) configuration that provides all the required IDE components (VS Code).
 
 ### I don't use [GitHub Codespaces](https://github.com/features/codespaces)
+
 Just clone this Repo and use a local *devcontainer* in your VS-Code IDE.
 
 ### I don't use [Devcontainers](https://code.visualstudio.com/docs/devcontainers/containers) 
-Here are some requirements you'll need:
+
+**Here are some requirements you'll need:**
 - NodeJS: v19.7.0
 - NPM: v9.5.0
 - VSCode Extensions:
-  - [Copilot]()
-  - [Copilot Chat]()
-  - [CodeTour]()
+  - [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+  - [Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+  - [CodeTour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
 
+---
 
 ## Introduction
 
