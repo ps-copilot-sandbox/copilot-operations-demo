@@ -1,10 +1,30 @@
+![Static Badge](https://img.shields.io/badge/NodeJS-v19.7.0-blue) ![Static Badge](https://img.shields.io/badge/npm-v9.5.0-yellow)
+
 
 <img width="256px" src="docs/images/copilot-flavors.png">
 
 # Copilot Operations Demo
-A demo to operate GitHub Copilot in Visual Studio Code
+A demo to operate GitHub Copilot in **Visual Studio Code**
 
-We use a React Calculator App to Demonstrate Copilot & Copilot Chat
+We use a React Calculator App to Demonstrate Copilot & Copilot Chat features
+
+## Prerequisites
+
+### An IDE based demo 
+We recommend to run this via [GitHub Codespaces](https://github.com/features/codespaces). We provide a [Devcontainer](https://code.visualstudio.com/docs/devcontainers/containers) configuration that provides all the required IDE components (VS Code).
+
+### I don't use [GitHub Codespaces](https://github.com/features/codespaces)
+Just clone this Repo and use a local *devcontainer* in your VS-Code IDE.
+
+### I don't use [Devcontainers](https://code.visualstudio.com/docs/devcontainers/containers) 
+Here are some requirements you'll need:
+- NodeJS: v19.7.0
+- NPM: v9.5.0
+- VSCode Extensions:
+  - [Copilot]()
+  - [Copilot Chat]()
+  - [CodeTour]()
+
 
 ## Introduction
 
@@ -28,9 +48,6 @@ For effective interaction with Copilot, it's essential to keep in mind that **Co
 ## Start the Tour
 
 We provide you with several **Code Tour** exercises, to practice Copilot interactions.
-
-> **Note:** This is an IDE based demo, we recommend to run this via [GitHub Codespaces](https://github.com/features/codespaces). We provide a Devcontainer configuration that provides all the required IDE components (VS Code).
-> If you do not have [GitHub Codespaces](https://github.com/features/codespaces), just clone this Repo and use a local *devcontainer* in your VS-Code IDE.
 
 ---
 
