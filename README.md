@@ -7,7 +7,7 @@
 A demonstration for utilizing GitHub Copilot within Visual Studio Code. This demo serves as a ***'train the trainer'*** guide, highlighting essential features of the Copilot extension for the benefit of class attendees.
 We employ the [CodeTour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) extension to guide you through an example of a React Calculator App. 
 
-## Prerequisites
+## Prerequisites & Options
 
 ### Use [GitHub Codespaces](https://github.com/features/codespaces) and VS-Code
 
