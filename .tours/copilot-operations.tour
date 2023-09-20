@@ -62,10 +62,10 @@
       }
     },
     {
-      "file": "src/components/calculator.js",
+      "file": "src/components/Calculator.js",
       "title": "Explain using Copilot",
-      "description": "## Make the calculator app an executable\n\n### 1. Open [Copilot Chat](command:workbench.panel.chatSidebar.copilot) (`Control` + `Command` + `I`) \n\n### 2. Ask Copilot, *\"How do I make the `index.js` an executable ?\"*\n\n### 3. Follow the instructions...",
-      "line": 10,
+      "description": "## Try using Copilot to `Explain the Code`\n\n### 1. we already highlighted a code section as an example (24-31)\n\n- you should see a little lightbulb, click that and select `Explain using Copilot`.\n- **Optional:** If Copilot does not produce satisfying results, try using [Copilot Chat](command:workbench.panel.chatSidebar.copilot) and use the command `/explain` (using the highlighted code). Copilot Chat will give a detailed description of the highlighted code.\n\n### This concludes the GitHub Copilot operations demo !",
+      "line": 33,
       "selection": {
         "start": {
           "line": 24,
