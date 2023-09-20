@@ -60,26 +60,27 @@ We provide you with several **Code Tour** exercises, to practice Copilot interac
 
 ### Start the `Calculator` App
 
-    ```bash
-    npm install
-    npm start
-    ```
+```bash
+npm install
+npm start
+```
 
 - Open a browser window (http://localhost:3000)
-    > (Command VS Browser: Start Browser)
+> **Note:** this shows the finished version of the calculator App, at the start of the CodeTour your browser should not show the calculator, yet, adding this is part of the Demo.
 
-
-    ![calculator](docs/images/calculator.png)
+ ![calculator](docs/images/calculator.png)
 
 ---
 
 ### Start the tour ...
 
+Here is a screenshot of what the CodeTour extension looks like in the IDE (VS-Code).
 
+![codetour](docs/images/codetour.png)
 
 ---
 
-### Note: Exercise items
+### Note: These are exercise items that should be addressed by the Demo
 
 |Copilot|Copilot Chat|
 |---|---|
