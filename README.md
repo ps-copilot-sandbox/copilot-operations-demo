@@ -16,11 +16,11 @@ Here are some options and requirements on how to run this demo.
 
 We recommend to run this via [GitHub Codespaces](https://github.com/features/codespaces). We provide a [Devcontainer](https://code.visualstudio.com/docs/devcontainers/containers) configuration that provides all the required IDE components (VS Code).
 
-### Option 2: [Devcontainers](https://code.visualstudio.com/docs/devcontainers/containers)
+### Option 2: VS Code + [Devcontainers](https://code.visualstudio.com/docs/devcontainers/containers)
 
 If you don't want to use Codespaces, just clone this Repo and use a local [Devcontainer](https://code.visualstudio.com/docs/devcontainers/containers) in your VS-Code IDE.
 
-### Option 3: Local IDE
+### Option 3: VS Code + CodeTour extension (Local)
 
 If you want to run this Demo on your local platform (no Codespaces, no Devcontainers), please have look a at the required tools.
 
