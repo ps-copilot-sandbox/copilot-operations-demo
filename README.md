@@ -9,7 +9,7 @@ We employ the [CodeTour](https://marketplace.visualstudio.com/items?itemName=vsl
 
 ## Prerequisites
 
-### An IDE based demo 
+### Use it with Codespaces and VS-Code
 
 We recommend to run this via [GitHub Codespaces](https://github.com/features/codespaces). We provide a [Devcontainer](https://code.visualstudio.com/docs/devcontainers/containers) configuration that provides all the required IDE components (VS Code).
 
