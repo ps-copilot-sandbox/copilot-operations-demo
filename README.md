@@ -85,7 +85,7 @@ Here is a screenshot of what the CodeTour extension looks like in the IDE (VS-Co
 
 ![codetour](docs/images/codetour.png)
 
-Clicking the 'play' button, CodeTour will open a code Tab (App.js) showing the first CodeTour steps...
+By **clicking the 'play' button**, CodeTour will open a code Tab (App.js) showing the first CodeTour steps...
 
 ![codetour-start](docs/images/codetour-start.png)
 ---
