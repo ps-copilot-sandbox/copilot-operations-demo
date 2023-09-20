@@ -35,6 +35,8 @@ If you want to run this Demo on your local platform (no Codespaces, no Devcontai
 
 ## Introduction
 
+### :warning: Note: The primary objective of this demo is not to complete the calculator app; that aspect serves as a guide for walking you through the exercise steps. If you don't achieve the exact results by the end, that's perfectly fine! What matters most is that users gain insight into how to use Copilot and Copilot Chat effectively.
+
 ### Overview
 
 Our goal is to **acquaint you with Copilot's functionalities within VS Code** and demonstrate diverse ways to interact effectively with Copilot.
@@ -63,12 +65,17 @@ We provide you with several **Code Tour** exercises, to practice Copilot interac
 ```bash
 npm install
 npm start
-```
+``` 
 
-- Open a browser window (http://localhost:3000)
-> **Note:** this shows the finished version of the calculator App, at the start of the CodeTour your browser should not show the calculator, yet, adding this is part of the Demo.
+- Open a browser window (http://localhost:3000), to see the App.
 
- ![calculator](docs/images/calculator.png)
+> **Note:** At the start of the CodeTour your browser should not show the calculator, yet, adding this is part of the Demo. This is what you should see...
+
+![calculator](docs/images/calculator2.png)
+
+> **Note:** By the time the Demo is completed, the App should look like this...
+
+ ![calculator](docs/images/calculator1.png)
 
 ---
 
