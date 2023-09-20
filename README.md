@@ -17,7 +17,7 @@ We recommend to run this via [GitHub Codespaces](https://github.com/features/cod
 
 ### Option 2: What if I don't use [GitHub Codespaces](https://github.com/features/codespaces) ?
 
-If you don't want to use Codespaces, just clone this Repo and use a local *devcontainer* in your VS-Code IDE.
+If you don't want to use Codespaces, just clone this Repo and use a local [Devcontainer](https://code.visualstudio.com/docs/devcontainers/containers) in your VS-Code IDE.
 
 ### Option 3: What if I don't use [Devcontainers](https://code.visualstudio.com/docs/devcontainers/containers) ?
 
