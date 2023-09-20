@@ -54,13 +54,11 @@ For effective interaction with Copilot, it's essential to keep in mind that **Co
 
 ## Before you Start the Tour
 
-We provide you with several **Code Tour** exercises, to practice Copilot interactions.
+We provide you with several **Code Tour** exercises, to practice Copilot interactions. The first step is to setp/start the `calculator` app.
 
 ---
 
-### 1. Step
-
-- Start the `Calculator` App
+### Start the `Calculator` App
 
     ```bash
     npm install
@@ -75,9 +73,9 @@ We provide you with several **Code Tour** exercises, to practice Copilot interac
 
 ---
 
-### 2. Step
+### Start the tour ...
 
-- Start the tour ...
+
 
 ---
 
