@@ -54,7 +54,7 @@ For effective interaction with Copilot, it's essential to keep in mind that **Co
 
 ## Before you Start the Tour
 
-We provide you with several **Code Tour** exercises, to practice Copilot interactions. The first step is to setp/start the `calculator` app.
+We provide you with several **Code Tour** exercises, to practice Copilot interactions. The first step is to setup/start the `calculator` app.
 
 ---
 
@@ -80,7 +80,7 @@ Here is a screenshot of what the CodeTour extension looks like in the IDE (VS-Co
 
 ---
 
-### Note: These are exercise items that should be addressed by the Demo
+### Note: These are exercise items that should be addressed in the Demo
 
 |Copilot|Copilot Chat|
 |---|---|
