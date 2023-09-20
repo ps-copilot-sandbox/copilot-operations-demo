@@ -11,15 +11,15 @@ We employ the [CodeTour](https://marketplace.visualstudio.com/items?itemName=vsl
 
 Here are some options and requirements on how to run this demo.
 
-### Use [GitHub Codespaces](https://github.com/features/codespaces) and VS-Code
+### Option 1: Use [GitHub Codespaces](https://github.com/features/codespaces) and VS-Code
 
 We recommend to run this via [GitHub Codespaces](https://github.com/features/codespaces). We provide a [Devcontainer](https://code.visualstudio.com/docs/devcontainers/containers) configuration that provides all the required IDE components (VS Code).
 
-### What if I don't use [GitHub Codespaces](https://github.com/features/codespaces) ?
+### Option 2: What if I don't use [GitHub Codespaces](https://github.com/features/codespaces) ?
 
 If you don't want to use Codespaces, just clone this Repo and use a local *devcontainer* in your VS-Code IDE.
 
-### What if I don't use [Devcontainers](https://code.visualstudio.com/docs/devcontainers/containers) ?
+### Option 3: What if I don't use [Devcontainers](https://code.visualstudio.com/docs/devcontainers/containers) ?
 
 If you want to run this Demo on your local platform (no Codespaces, no Devcontainers), please have look at the required tools.
 
