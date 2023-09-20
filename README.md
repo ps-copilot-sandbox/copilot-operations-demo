@@ -22,7 +22,7 @@ If you don't want to use Codespaces, just clone this Repo and use a local [Devco
 
 ### Option 3: Local IDE
 
-If you want to run this Demo on your local platform (no Codespaces, no Devcontainers), please have look at the required tools.
+If you want to run this Demo on your local platform (no Codespaces, no Devcontainers), please have look a at the required tools.
 
 **Here are some requirements you'll need:**
 - NodeJS: v19.7.0
