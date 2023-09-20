@@ -85,6 +85,9 @@ Here is a screenshot of what the CodeTour extension looks like in the IDE (VS-Co
 
 ![codetour](docs/images/codetour.png)
 
+Clicking the 'play' button will open a code Tab with the CodeTour steps...
+
+
 ---
 
 ### Note: These are exercise items that should be addressed in the Demo
