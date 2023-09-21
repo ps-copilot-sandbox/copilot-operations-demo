@@ -80,7 +80,7 @@ npm start
 
 ---
 
-### Start the tour ...
+## Start the tour ...
 
 Here is a screenshot of what the CodeTour extension looks like in the IDE (VS-Code).
 
