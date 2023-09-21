@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/NodeJS-v19.7.0-blue) ![Static Badge](https://img.shields.io/badge/npm-v9.5.0-yellow)
+![Static Badge](https://img.shields.io/badge/NodeJS-v19.7.0-blue) ![Static Badge](https://img.shields.io/badge/npm-v9.5.0-yellow) ![Static Badge](https://img.shields.io/badge/IDE-VS_Code-green) ![Static Badge](https://img.shields.io/badge/Extension-CodeTour-lightgrey) ![Static Badge](https://img.shields.io/badge/Extension-Copilot-lightgrey) ![Static Badge](https://img.shields.io/badge/Extension-Copilot_Chat-lightgrey)
 
 <img width="256px" src="docs/images/copilot-flavors.png">
 
