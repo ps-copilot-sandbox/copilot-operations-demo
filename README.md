@@ -40,7 +40,7 @@ If you want to run this Demo on your local platform (no Codespaces, no Devcontai
 
 ### Overview
 
-Our goal is to **acquaint you with Copilot's functionalities within VS Code** and demonstrate diverse ways to interact effectively with Copilot.
+Our goal is to **acquaint you with Copilot's functionalities** and demonstrate diverse ways to interact effectively with Copilot.
 
 Copilot and Copilot Chat, while built on the same backend technology, serve distinct roles within your integrated development environment (IDE). To put it simply, **Copilot functions as a coding assistant**, responding to your in-code context, while **Copilot Chat operates as your research assistant**, enabling chat-based communication for more interactive collaboration with Copilot.
 
